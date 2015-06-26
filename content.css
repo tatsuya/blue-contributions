@@ -1,0 +1,24 @@
+#contributions-calendar rect[fill="#d6e685"] {
+  fill: #85d6e6;
+}
+#contributions-calendar rect[fill="#8cc665"] {
+  fill: #658cc6;
+}
+#contributions-calendar rect[fill="#44a340"] {
+  fill: #4044a3;
+}
+#contributions-calendar rect[fill="#1e6823"] {
+  fill: #231e68;
+}
+#contributions-calendar ul.legend li[style="background-color: #d6e685"] {
+  background-color: #85d6e6 !important;
+}
+#contributions-calendar ul.legend li[style="background-color: #8cc665"] {
+  background-color: #658cc6 !important;
+}
+#contributions-calendar ul.legend li[style="background-color: #44a340"] {
+  background-color: #4044a3 !important;
+}
+#contributions-calendar ul.legend li[style="background-color: #1e6823"] {
+  background-color: #231e68 !important;
+}
