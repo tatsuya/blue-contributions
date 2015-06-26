@@ -1,6 +1,6 @@
 {
   "name": "Blue Contributions",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "Turns your GitHub contribution graph blue.",
   "content_scripts": [
     {
